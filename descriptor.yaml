@@ -3,7 +3,7 @@ description: This is the custportApp bundle
 
 components:
     plugins:
-        - plugins/custportapp-plugin.yaml
+#        - plugins/custportapp-plugin.yaml
 
     widgets:
         - ui/widgets/cp-widgets-dir/cp-widgets/admin-dashboard-widget-descriptor.yaml
